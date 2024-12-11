@@ -5,3 +5,4 @@ wiggle the ball left/right to switch to a scroll mode, the ball is then simulati
 
 https://www.youtube.com/watch?v=wvuZpBOGxHc
 
+soldering a switch to the bootloader pins can also be hold to scroll
