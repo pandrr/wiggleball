@@ -7,4 +7,5 @@ https://www.youtube.com/watch?v=wvuZpBOGxHc
 
 soldering a switch to the bootloader pins can also be hold to scroll
 
-qmk binary: https://github.com/pandrr/wiggleball/raw/refs/heads/main/ploopy_nano_wiggleball.hex
+qmk binary: https://github.com/pandrr/wiggleball/raw/refs/heads/main/ploopy_nano_wiggleball.hex.zip
+
